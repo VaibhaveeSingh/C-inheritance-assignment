@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Quadrilateral\bin\Debug\Quadrilateral.exe.config
+C:\Users\HP\source\repos\Quadrilateral\bin\Debug\Quadrilateral.exe
+C:\Users\HP\source\repos\Quadrilateral\bin\Debug\Quadrilateral.pdb
+C:\Users\HP\source\repos\Quadrilateral\obj\Debug\Quadrilateral.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Quadrilateral\obj\Debug\Quadrilateral.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Quadrilateral\obj\Debug\Quadrilateral.exe
+C:\Users\HP\source\repos\Quadrilateral\obj\Debug\Quadrilateral.pdb
